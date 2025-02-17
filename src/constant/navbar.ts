@@ -1,0 +1,1 @@
+export const NavBarItems=["Home","Detination","Crew","Technology"] as const 
